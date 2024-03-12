@@ -3,6 +3,6 @@ file = open('example.txt','r')
 
 writtenText = file.read()
 
-print(file.read()) #Shortcut printing
+print(writtenText) #Prints the file content
 
 file.close()
