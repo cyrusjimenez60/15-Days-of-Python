@@ -1,0 +1,22 @@
+[
+    {
+        "Name" : "Harry",
+        "Age" : 24,
+        "House" : "Gryffindor"
+    },
+    {
+        "Name" : "Luna",
+        "Age" : 22,
+        "House" : "Ravenclaw"
+    },
+    {
+        "Name" : "Cedric",
+        "Age" : 28,
+        "House" : "Hufflepuff"
+    },
+    {
+        "Name" : "Draco",
+        "Age" : 24,
+        "House" : "Slytherin"
+    }
+]
